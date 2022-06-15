@@ -20,3 +20,5 @@
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)]([https://medium.com/@danialhamedi/tello-drone-programming-part1-6b80758dc8a6](https://medium.com/@danialhamedi/tello-drone-programming-part2-b5a7aa4fd959))
 [![HashNode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://danial.hashnode.dev/tello-drone-programming-part2)
+
+# and here you can find some sample code for the Tello drone.
