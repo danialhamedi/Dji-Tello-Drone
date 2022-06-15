@@ -1,7 +1,7 @@
-# Dji-Tello-Drone
+# 📋Dji-Tello-Drone
 ## I've written a fully detailed document about Tello drone:
-## you can find it on HashNode or on Medium !
-## Links:
+### you can find it on HashNode or on Medium !
+### Links:
 ## part 1: 
 **fundumentals about tello drone - UDP server-ip-port**
 
